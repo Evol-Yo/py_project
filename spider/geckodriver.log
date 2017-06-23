@@ -1,0 +1,71 @@
+1495980510282	geckodriver	INFO	Listening on 127.0.0.1:59618
+1495980803011	geckodriver	INFO	Listening on 127.0.0.1:59879
+1496020158027	geckodriver	INFO	Listening on 127.0.0.1:45030
+1496020160286	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1496020161605	Marionette	INFO	Listening on port 35854
+1496020161784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496022207260	geckodriver	INFO	Listening on 127.0.0.1:37728
+1496022208837	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1496022212028	Marionette	INFO	Listening on port 36838
+1496022212449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496022414227	geckodriver	INFO	Listening on 127.0.0.1:34238
+1496022415559	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1496022417680	Marionette	INFO	Listening on port 58010
+1496022418097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496026268443	geckodriver	INFO	Listening on 127.0.0.1:43319
+1496026269883	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1496026271972	Marionette	INFO	Listening on port 59099
+1496026272182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496026355363	geckodriver	INFO	Listening on 127.0.0.1:40302
+1496026356498	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1496026357847	Marionette	INFO	Listening on port 37124
+1496026358035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496026719585	geckodriver	INFO	Listening on 127.0.0.1:40981
+1496026720752	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1496026722099	Marionette	INFO	Listening on port 32803
+1496026722280	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496028549864	geckodriver	INFO	Listening on 127.0.0.1:39681
+1496028551037	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1496028552519	Marionette	INFO	Listening on port 55773
+1496028552718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496028602650	geckodriver	INFO	Listening on 127.0.0.1:38422
+1496028603825	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1496028605329	Marionette	INFO	Listening on port 36682
+1496028605569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496028684922	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1496028749354	geckodriver	INFO	Listening on 127.0.0.1:44437
+1496028750509	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1496028751893	Marionette	INFO	Listening on port 41411
+1496028752082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496028833446	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+console.error: 
+  Message: Error: Failed to fetch http://cdn2.jianshu.io/assets/web-54714357a9b8be07d36b.js.map. Code 2152398877.
+  Stack:
+    mainThreadFetch/onResponse@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:437:23
+NetUtil_asyncFetch/<.onStopRequest@resource://gre/modules/NetUtil.jsm:128:17
+
+mainThreadFetch/onResponse@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:437:23
+NetUtil_asyncFetch/<.onStopRequest@resource://gre/modules/NetUtil.jsm:128:17
+console.error: 
+  Protocol error (unknownError): Failed to fetch http://cdn2.jianshu.io/assets/web-54714357a9b8be07d36b.js.map. Code 2152398877.
+console.error: 
+  Message: Error: Failed to fetch http://cdn2.jianshu.io/assets/web/pages/recommendations/collections/entry-54714357a9b8be07d36b.js.map. Code 2152398877.
+  Stack:
+    mainThreadFetch/onResponse@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:437:23
+NetUtil_asyncFetch/<.onStopRequest@resource://gre/modules/NetUtil.jsm:128:17
+
+mainThreadFetch/onResponse@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:437:23
+NetUtil_asyncFetch/<.onStopRequest@resource://gre/modules/NetUtil.jsm:128:17
+console.error: 
+  Protocol error (unknownError): Failed to fetch http://cdn2.jianshu.io/assets/web/pages/recommendations/collections/entry-54714357a9b8be07d36b.js.map. Code 2152398877.
+1496028981601	geckodriver	INFO	Listening on 127.0.0.1:60443
+1496028982763	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1496028984116	Marionette	INFO	Listening on port 33956
+1496028984300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496029065496	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
